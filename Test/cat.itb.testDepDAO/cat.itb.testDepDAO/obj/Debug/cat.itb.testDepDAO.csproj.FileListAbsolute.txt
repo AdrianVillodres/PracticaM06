@@ -1,0 +1,156 @@
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.csproj.AssemblyReference.cache
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.csproj.SuggestedBindingRedirects.cache
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.csproj.CoreCompileInputs.cache
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.testDepDAO.exe.config
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.testDepDAO.exe
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.testDepDAO.pdb
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.gestioHR.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Npgsql.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Memory.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Threading.Channels.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Buffers.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.gestioHR.pdb
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.gestioHR.dll.config
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Npgsql.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Memory.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Threading.Channels.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Buffers.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.csproj.CopyComplete
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.exe
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.pdb
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Collections.Immutable.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Text.Json.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.ValueTuple.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Collections.Immutable.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Text.Json.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.ValueTuple.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Driver.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Bson.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\DnsClient.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\SharpCompress.dll
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Driver.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Bson.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\33939635F\RiderProjects\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\DnsClient.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.testDepDAO.exe.config
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.testDepDAO.exe
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.testDepDAO.pdb
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.gestioHR.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Npgsql.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Buffers.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Collections.Immutable.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Memory.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Text.Json.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Threading.Channels.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.ValueTuple.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Driver.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Driver.Core.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Bson.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\DnsClient.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\SharpCompress.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.gestioHR.pdb
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.gestioHR.dll.config
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Npgsql.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Buffers.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Collections.Immutable.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Memory.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Numerics.Vectors.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Text.Json.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Threading.Channels.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.ValueTuple.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Driver.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Driver.Core.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Bson.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\DnsClient.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.csproj.AssemblyReference.cache
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.csproj.CoreCompileInputs.cache
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb..8060BF0A.Up2Date
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.exe
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.pdb
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.testDepDAO.exe.config
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.testDepDAO.exe
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.testDepDAO.pdb
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.gestioHR.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Npgsql.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Buffers.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Collections.Immutable.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Memory.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Text.Json.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Threading.Channels.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.ValueTuple.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Driver.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Driver.Core.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Bson.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\DnsClient.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\SharpCompress.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.gestioHR.pdb
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\cat.itb.gestioHR.dll.config
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Npgsql.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Buffers.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Collections.Immutable.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Memory.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Numerics.Vectors.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Text.Json.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Threading.Channels.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\System.ValueTuple.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Driver.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Driver.Core.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\MongoDB.Bson.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\DnsClient.xml
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.csproj.AssemblyReference.cache
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.csproj.CoreCompileInputs.cache
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb..8060BF0A.Up2Date
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.exe
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\obj\Debug\cat.itb.testDepDAO.pdb
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Newtonsoft.Json.dll
+C:\Joan\cat.itb.testDepDAO\cat.itb.testDepDAO\cat.itb.testDepDAO\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cat.itb.testDepDAO", "cat.itb.testDepDAO\cat.itb.testDepDAO.csproj", "{73111CD5-E77E-4CFE-82F5-B632422F517D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73111CD5-E77E-4CFE-82F5-B632422F517D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73111CD5-E77E-4CFE-82F5-B632422F517D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73111CD5-E77E-4CFE-82F5-B632422F517D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73111CD5-E77E-4CFE-82F5-B632422F517D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

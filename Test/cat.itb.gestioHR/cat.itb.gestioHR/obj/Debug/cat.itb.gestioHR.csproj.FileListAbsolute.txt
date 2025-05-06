@@ -1,0 +1,266 @@
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.csproj.AssemblyReference.cache
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.csproj.CoreCompileInputs.cache
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\cat.itb.gestioHR.dll.config
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\cat.itb.gestioHR.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\cat.itb.gestioHR.pdb
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Npgsql.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Buffers.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Collections.Immutable.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Memory.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Json.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Channels.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.ValueTuple.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Npgsql.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Buffers.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Collections.Immutable.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Memory.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Json.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Channels.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.ValueTuple.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.csproj.CopyComplete
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.pdb
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libzstd.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\snappy32.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\snappy64.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libsnappy64.so
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libzstd.so
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libsnappy64.dylib
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libzstd.dylib
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\mongocrypt.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\DnsClient.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Bson.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\SharpCompress.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.AccessControl.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\DnsClient.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Bson.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.AccessControl.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\33939635F\RiderProjects\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libzstd.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\snappy32.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\snappy64.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libsnappy64.so
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libzstd.so
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libsnappy64.dylib
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libzstd.dylib
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\mongocrypt.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\cat.itb.gestioHR.dll.config
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\cat.itb.gestioHR.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\cat.itb.gestioHR.pdb
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\DnsClient.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Bson.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.Core.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Newtonsoft.Json.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Npgsql.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\SharpCompress.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Buffers.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Collections.Immutable.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Memory.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Numerics.Vectors.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.AccessControl.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.Principal.Windows.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encodings.Web.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Json.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Channels.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.ValueTuple.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\DnsClient.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Bson.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.Core.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Newtonsoft.Json.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Npgsql.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Buffers.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Collections.Immutable.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Memory.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Numerics.Vectors.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.AccessControl.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.Principal.Windows.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encodings.Web.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Json.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Channels.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.ValueTuple.xml
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.csproj.AssemblyReference.cache
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.csproj.CoreCompileInputs.cache
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb..45B75A05.Up2Date
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF4. Components\Pràctica\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.pdb
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA6. Components (1)\Publicat\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA6. Components (1)\Publicat\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.pdb
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libzstd.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\snappy32.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\snappy64.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libsnappy64.so
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libzstd.so
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libsnappy64.dylib
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libzstd.dylib
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\mongocrypt.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\cat.itb.gestioHR.dll.config
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\cat.itb.gestioHR.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\cat.itb.gestioHR.pdb
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\DnsClient.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Bson.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.Core.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Newtonsoft.Json.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Npgsql.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\SharpCompress.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Buffers.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Collections.Immutable.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Memory.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Numerics.Vectors.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.AccessControl.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.Principal.Windows.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encodings.Web.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Json.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Channels.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.ValueTuple.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\DnsClient.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Bson.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.Core.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Newtonsoft.Json.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Npgsql.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Buffers.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Collections.Immutable.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Memory.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Numerics.Vectors.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.AccessControl.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.Principal.Windows.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encodings.Web.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Json.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Channels.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.ValueTuple.xml
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.csproj.AssemblyReference.cache
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.csproj.CoreCompileInputs.cache
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb..45B75A05.Up2Date
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.dll
+C:\Joan\cat.itb.gestioHR\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.pdb
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libzstd.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\snappy32.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\snappy64.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libsnappy64.so
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libzstd.so
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libsnappy64.dylib
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\libzstd.dylib
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\mongocrypt.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\cat.itb.gestioHR.dll.config
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\cat.itb.gestioHR.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\cat.itb.gestioHR.pdb
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\DnsClient.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Bson.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Npgsql.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\SharpCompress.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Buffers.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Collections.Immutable.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Memory.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.AccessControl.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Json.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Channels.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.ValueTuple.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\DnsClient.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Bson.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\Npgsql.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Buffers.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Collections.Immutable.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Memory.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.AccessControl.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Text.Json.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Channels.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\bin\Debug\System.ValueTuple.xml
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.csproj.AssemblyReference.cache
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.csproj.CoreCompileInputs.cache
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.csproj.CopyComplete
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.dll
+C:\Users\argo\Desktop\Adrian\Practica\Test\cat.itb.gestioHR\cat.itb.gestioHR\obj\Debug\cat.itb.gestioHR.pdb
