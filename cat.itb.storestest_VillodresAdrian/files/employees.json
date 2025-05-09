@@ -1,0 +1,15 @@
+{"_id":7369,"surname":"SÁNCHEZ","job":"EMPLEADO","managerid":7902,"startdate":"1990-12-17T00:00:00","salary":1040.0,"comission":0.0,"depid":20}
+{"_id":7521,"surname":"SALA","job":"VENDEDOR","managerid":7698,"startdate":"1991-02-22T00:00:00","salary":1625.0,"comission":650.0,"depid":30}
+{"_id":7566,"surname":"JIMÉNEZ","job":"DIRECTOR","managerid":7839,"startdate":"1991-04-02T00:00:00","salary":2900.0,"comission":0.0,"depid":20}
+{"_id":7654,"surname":"MARTÍN","job":"VENDEDOR","managerid":7698,"startdate":"1991-09-29T00:00:00","salary":1600.0,"comission":1020.0,"depid":30}
+{"_id":7698,"surname":"NEGRO","job":"DIRECTOR","managerid":7839,"startdate":"1991-05-01T00:00:00","salary":3005.0,"comission":0.0,"depid":30}
+{"_id":7782,"surname":"CEREZO","job":"DIRECTOR","managerid":7839,"startdate":"1991-06-09T00:00:00","salary":2885.0,"comission":0.0,"depid":10}
+{"_id":7788,"surname":"GIL","job":"ANALISTA","managerid":7566,"startdate":"1991-11-09T00:00:00","salary":3000.0,"comission":0.0,"depid":20}
+{"_id":7839,"surname":"REY","job":"PRESIDENTE","managerid":0,"startdate":"1991-11-17T00:00:00","salary":4100.0,"comission":0.0,"depid":10}
+{"_id":7844,"surname":"TOVAR","job":"VENDEDOR","managerid":7698,"startdate":"1991-09-08T00:00:00","salary":1350.0,"comission":0.0,"depid":30}
+{"_id":7876,"surname":"ALONSO","job":"EMPLEADO","managerid":7788,"startdate":"1991-09-23T00:00:00","salary":1430.0,"comission":0.0,"depid":20}
+{"_id":7900,"surname":"JIMENO","job":"EMPLEADO","managerid":7698,"startdate":"1991-12-03T00:00:00","salary":1335.0,"comission":0.0,"depid":30}
+{"_id":7902,"surname":"FERNÁNDEZ","job":"ANALISTA","managerid":7566,"startdate":"1991-12-03T00:00:00","salary":3000.0,"comission":0.0,"depid":20}
+{"_id":7934,"surname":"MUÑOZ","job":"EMPLEADO","managerid":7782,"startdate":"1992-01-23T00:00:00","salary":1690.0,"comission":0.0,"depid":10}
+{"_id":7499,"surname":"ARROYO","job":"VENDEDOR","managerid":7698,"startdate":"1990-02-20T00:00:00","salary":1800.0,"comission":390.0,"depid":30}
+{"_id":1567,"surname":"MAYERS","job":"ANALYST","managerid":7566,"startdate":"1996-12-17T00:00:00","salary":3000.0,"comission":0.0,"depid":10}

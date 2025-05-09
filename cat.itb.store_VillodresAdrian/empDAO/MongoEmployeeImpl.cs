@@ -5,7 +5,7 @@ using cat.itb.store_VillodresAdrian.empDAO;
 using MongoDB.Driver;
 using MongoDB.Driver.Linq;
 
-namespace cat.itb.gestioHR.empDAO
+namespace cat.itb.store_VillodresAdrian.empDAO
 {
    public class MongoEmployeeImpl : EmployeeDAO
    {

@@ -4,7 +4,7 @@ using cat.itb.store_VillodresAdrian.connections;
 using cat.itb.store_VillodresAdrian.empDAO;
 using Npgsql;
 
-namespace cat.itb.gestioHR.empDAO
+namespace cat.itb.store_VillodresAdrian.empDAO
 {
     public class SQLEmployeeImpl : EmployeeDAO
     {
@@ -39,25 +39,30 @@ namespace cat.itb.gestioHR.empDAO
             DeleteAll();
             SQLConnection db = new SQLConnection();
             conn = db.GetConnection();
-            
-            NpgsqlCommand cmd = new NpgsqlCommand("INSERT INTO employees VALUES (@prodNum, @descripcio)", conn);
-            
-            foreach (var dep in emps)
+
+            var cmd = new NpgsqlCommand(@"INSERT INTO employees VALUES (@id, @surname, @job, @managerid, @startdate, @salary, @commission, @depid)", conn);
+            foreach (var emp in emps)
             {
-                cmd.Parameters.AddWithValue("empno", dep._id);
-                cmd.Parameters.AddWithValue("nom", dep.surname);
-                cmd.Parameters.AddWithValue("job", dep.job);
+                cmd.Parameters.Clear();
+                cmd.Parameters.AddWithValue("id", emp._id);
+                cmd.Parameters.AddWithValue("surname", emp.surname);
+                cmd.Parameters.AddWithValue("job", emp.job);
+                cmd.Parameters.AddWithValue("managerid", emp.managerid);
+                cmd.Parameters.AddWithValue("startdate", emp.startdate);
+                cmd.Parameters.AddWithValue("salary", emp.salary);
+                cmd.Parameters.AddWithValue("commission", emp.comission); 
+                cmd.Parameters.AddWithValue("depid", emp.depid);
                 cmd.Prepare();
                 try
                 {
                     cmd.ExecuteNonQuery();
 
                     Console.WriteLine("Employee with Id {0} and Name {1} added",
-                        dep._id, dep.surname);
+                        emp._id, emp.surname);
                 }
                 catch
                 {
-                    Console.WriteLine("Couldn't add Employee with Id {0}", dep._id);
+                    Console.WriteLine("Couldn't add Employee with Id {0}", emp._id);
                 }
                 
                 cmd.Parameters.Clear();
@@ -82,11 +87,26 @@ namespace cat.itb.gestioHR.empDAO
                 emp._id = dr.GetInt32(0);
                 emp.surname = dr.GetString(1);
                 emp.job = dr.GetString(2);
-                emp.managerid = dr.GetInt32(3);
+                try
+                {
+                    emp.managerid = dr.GetInt32(3);
+                }
+                catch (Exception e)
+                {
+                    emp.managerid = 0;
+                }
                 emp.startdate = dr.GetDateTime(4);
                 emp.salary = dr.GetDouble(5);
-                emp.comission = dr.GetDouble(6);
-                emp.depid = dr.GetInt32(7);                
+                try
+                {
+                    emp.comission = dr.GetDouble(6);
+                }
+                catch (Exception e)
+                {
+                    emp.comission = 0;
+                }
+                emp.depid = dr.GetInt32(7);
+                emps.Add(emp);
             }
 
             conn.Close();
@@ -108,10 +128,22 @@ namespace cat.itb.gestioHR.empDAO
                 emp._id = dr.GetInt32(0);
                 emp.surname = dr.GetString(1);
                 emp.job = dr.GetString(2);
-                emp.managerid = dr.GetInt32(3);
+                try
+                {
+                    emp.managerid = dr.GetInt32(3);
+                } catch (Exception e)
+                {
+                    emp.managerid = 0;
+                }
                 emp.startdate = dr.GetDateTime(4);
                 emp.salary = dr.GetDouble(5);
-                emp.comission = dr.GetDouble(6);
+                try
+                {
+                    emp.comission = dr.GetDouble(6);
+                } catch (Exception e)
+                {
+                    emp.comission = 0;
+                }
                 emp.depid = dr.GetInt32(7);
             }
             else
@@ -124,30 +156,38 @@ namespace cat.itb.gestioHR.empDAO
             
         }
 
-        public Boolean Insert(Employee dep)
+        public Boolean Insert(Employee emp)
         {
    
            SQLConnection db = new SQLConnection();
            conn = db.GetConnection();
-           
-            NpgsqlCommand cmd = new NpgsqlCommand("INSERT INTO employees VALUES (@empid, @nom, @job)", conn);
 
-            Boolean bol; 
-            cmd.Parameters.AddWithValue("depno", dep._id);
-            cmd.Parameters.AddWithValue("nom", dep.surname);
-            cmd.Parameters.AddWithValue("loc", dep.job);
+            var cmd = new NpgsqlCommand(@"INSERT INTO employees 
+    VALUES (@id, @surname, @job, @managerid, @startdate, 
+            @salary, @commission, @depid)", conn);
+
+            Boolean bol;
+
+            cmd.Parameters.AddWithValue("id", emp._id);
+            cmd.Parameters.AddWithValue("surname", emp.surname);
+            cmd.Parameters.AddWithValue("job", emp.job);
+            cmd.Parameters.AddWithValue("managerid", emp.managerid);
+            cmd.Parameters.AddWithValue("startdate", emp.startdate);
+            cmd.Parameters.AddWithValue("salary", emp.salary);
+            cmd.Parameters.AddWithValue("commission", emp.comission ?? (object)DBNull.Value);
+            cmd.Parameters.AddWithValue("depid", emp.depid);
             cmd.Prepare();
             try
             {
                 cmd.ExecuteNonQuery();
                 bol = true;
                 Console.WriteLine("Employee with Id {0} and Name {1} added",
-                    dep._id, dep.surname);
+                    emp._id, emp.surname);
             }
             catch
             {
                 bol = false;
-                Console.WriteLine("Couldn't add Employee with Id {0}", dep._id);
+                Console.WriteLine("Couldn't add Employee with Id {0}", emp._id);
             }
            
             conn.Close();
@@ -181,27 +221,35 @@ namespace cat.itb.gestioHR.empDAO
             return bol;
         }
 
-        public Boolean Update(Employee dep)
+        public Boolean Update(Employee emp)
         {
             SQLConnection db = new SQLConnection();
            conn = db.GetConnection();
-            NpgsqlCommand cmd = new NpgsqlCommand("UPDATE employees SET surname = @nom, job = @loc  WHERE _id = @empId", conn);
-            Boolean bol; 
-          
-            cmd.Parameters.AddWithValue("surname", dep.surname);
-            cmd.Parameters.AddWithValue("job", dep.job);
-            cmd.Parameters.AddWithValue("empId", dep._id);
+            var cmd = new NpgsqlCommand(@"UPDATE employees 
+    SET surname = @surname, job = @job, managerid = @managerid, startdate = @startdate, 
+        salary = @salary, commission = @commission, depid = @depid 
+    WHERE _id = @id", conn);
+            Boolean bol;
+
+            cmd.Parameters.AddWithValue("surname", emp.surname);
+            cmd.Parameters.AddWithValue("job", emp.job);
+            cmd.Parameters.AddWithValue("managerid", emp.managerid);
+            cmd.Parameters.AddWithValue("startdate", emp.startdate);
+            cmd.Parameters.AddWithValue("salary", emp.salary);
+            cmd.Parameters.AddWithValue("commission", emp.comission ?? (object)DBNull.Value);
+            cmd.Parameters.AddWithValue("depid", emp.depid);
+            cmd.Parameters.AddWithValue("id", emp._id);
             cmd.Prepare();
             try
             {
                 cmd.ExecuteNonQuery();
                 bol = true;
-                Console.WriteLine("Employee with ID {0} updated", dep._id);
+                Console.WriteLine("Employee with ID {0} updated", emp._id);
             }
             catch
             {
                 bol = false;
-                Console.WriteLine("Couldn't update Employee {0}", dep.surname);
+                Console.WriteLine("Couldn't update Employee {0}", emp.surname);
             }
             
             

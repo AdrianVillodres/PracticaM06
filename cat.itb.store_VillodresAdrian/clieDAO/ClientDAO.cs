@@ -20,5 +20,9 @@ namespace cat.itb.store_VillodresAdrian.clieDAO
 
         Boolean Update(Client cli);
 
+        List<Client> SelectByEmpId(int CliId);
+
+        List<Client> SelectByEmpSurname(string surname);
+
     }
 }

@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using cat.itb.store_VillodresAdrian.connections;
+using cat.itb.store_VillodresAdrian.empDAO;
+using MongoDB.Bson;
 using MongoDB.Driver;
 using MongoDB.Driver.Linq;
 
@@ -117,5 +120,35 @@ namespace cat.itb.store_VillodresAdrian.clieDAO
             return Insert(cli);
         }
 
-   }
+        public List<Client> SelectByEmpId(int CliId)
+        {
+            var database = MongoConnection.GetDatabase("itb");
+            var collection = database.GetCollection<Client>("clients");
+            var clis = collection.AsQueryable<Client>()
+                .Where(d => d.empid == CliId)
+                .ToList();
+            return clis;
+        }
+
+        public List<Client> SelectByEmpSurname(string surname)
+        {
+            var database = MongoConnection.GetDatabase("itb");
+            var clients = database.GetCollection<Client>("clients");
+            var employees = database.GetCollection<Employee>("employees");
+
+            var list = employees.Find(e => e.surname.Equals(surname))
+                .ToList();
+
+            var matchingEmployeeIds = list
+                .Select(e => e._id)
+                .ToList();
+
+            var result = clients
+                .Find(c => matchingEmployeeIds.Contains((int)c.empid))
+                .ToList();
+
+
+            return result;
+        }
+    }
 }

@@ -6,7 +6,7 @@ namespace cat.itb.store_VillodresAdrian.connections
     public class SQLConnection
     {
         private String HOST = "postgresql-adrianvillodres.alwaysdata.net"; // Ubicació de la BD.
-        private String DB = "adrianvillodres_practica"; // Nom de la BD.
+        private String DB = "adrianvillodres_store"; // Nom de la BD.
         private String USER = "adrianvillodres";
         private String PASSWORD = "pyraforsmash";
 

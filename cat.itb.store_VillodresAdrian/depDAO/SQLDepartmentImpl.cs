@@ -38,13 +38,12 @@ namespace cat.itb.store_VillodresAdrian.depDAO
             DeleteAll();
             SQLConnection db = new SQLConnection();
             conn = db.GetConnection();
-            
-            NpgsqlCommand cmd = new NpgsqlCommand("INSERT INTO departments VALUES (@prodNum, @descripcio)", conn);
-            
+
+            var cmd = new NpgsqlCommand("INSERT INTO departments VALUES (@id, @name, @loc)", conn);
             foreach (var dep in deps)
             {
-                cmd.Parameters.AddWithValue("depno", dep._id);
-                cmd.Parameters.AddWithValue("nom", dep.Name);
+                cmd.Parameters.AddWithValue("id", dep._id);
+                cmd.Parameters.AddWithValue("name", dep.Name);
                 cmd.Parameters.AddWithValue("loc", dep.Loc);
                 cmd.Prepare();
                 try

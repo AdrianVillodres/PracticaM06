@@ -64,5 +64,14 @@ namespace cat.itb.store_VillodresAdrian.clieDAO
         {
             throw new System.NotImplementedException();
         }
+        public List<Client> SelectByEmpId(int cliId)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public List<Client> SelectByEmpSurname(string surname)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

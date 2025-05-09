@@ -4,7 +4,7 @@ using System.IO;
 using cat.itb.store_VillodresAdrian.empDAO;
 using Newtonsoft.Json;
 
-namespace cat.itb.gestioHR.empDAO
+namespace cat.itb.store_VillodresAdrian.empDAO
 {
     public class FileEmployeeImpl : EmployeeDAO
     {
@@ -15,7 +15,7 @@ namespace cat.itb.gestioHR.empDAO
 
         public void InsertAll(List<Employee> deps)
         {
-            FileInfo file = new FileInfo("../../../../employees.json");
+            FileInfo file = new FileInfo("../../../files/employees.json");
             StreamWriter sw = file.CreateText();
             try
             {
@@ -35,7 +35,7 @@ namespace cat.itb.gestioHR.empDAO
 
         public List<Employee> SelectAll()
         {
-            FileInfo file = new FileInfo("../../../../employees.json");
+            FileInfo file = new FileInfo("../../../files/employees.json");
             StreamReader sr = file.OpenText();
             string dept;
             List<Employee> list = new List<Employee>();
