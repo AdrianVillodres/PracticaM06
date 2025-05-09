@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 
-namespace cat.itb.gestioHR.depDAO
+namespace cat.itb.store_VillodresAdrian.depDAO
 {
-    public class FileEmployeeImpl : DepartmentDAO
+    public class FileDepartmentImpl : DepartmentDAO
     {
         public void DeleteAll()
         {

@@ -1,12 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using cat.itb.gestioHR.connections;
-using cat.itb.store_VillodresAdrian.clieDAO;
-using cat.itb.store_VillodresAdrian.empDAO;
+using cat.itb.store_VillodresAdrian.connections;
 using MongoDB.Driver;
 using MongoDB.Driver.Linq;
 
-namespace cat.itb.gestioHR.empDAO
+namespace cat.itb.store_VillodresAdrian.clieDAO
 {
    public class MongoClientImpl : ClientDAO
    {

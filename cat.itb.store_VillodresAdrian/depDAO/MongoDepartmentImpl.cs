@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using cat.itb.gestioHR.connections;
+using cat.itb.store_VillodresAdrian.connections;
 using MongoDB.Driver;
 using MongoDB.Driver.Linq;
 
-namespace cat.itb.gestioHR.depDAO
+namespace cat.itb.store_VillodresAdrian.depDAO
 {
-   public class MongoEmployeeImpl : DepartmentDAO
+   public class MongoDepartmentImpl : DepartmentDAO
    {
        
        public void DeleteAll()

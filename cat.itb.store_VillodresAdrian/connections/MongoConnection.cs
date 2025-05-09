@@ -1,7 +1,7 @@
 ﻿using System;
 using MongoDB.Driver;
 
-namespace cat.itb.gestioHR.connections
+namespace cat.itb.store_VillodresAdrian.connections
 {
     public class MongoConnection
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using cat.itb.gestioHR.connections;
+using cat.itb.store_VillodresAdrian.connections;
 using cat.itb.store_VillodresAdrian.empDAO;
 using MongoDB.Driver;
 using MongoDB.Driver.Linq;

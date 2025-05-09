@@ -1,7 +1,7 @@
 ﻿using System;
 using Npgsql;
 
-namespace cat.itb.store.connections
+namespace cat.itb.store_VillodresAdrian.connections
 {
     public class SQLConnection
     {

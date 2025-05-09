@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using cat.itb.gestioHR.depDAO;
+using cat.itb.store_VillodresAdrian.depDAO;
 
 namespace cat.itb.store_VillodresAdrian.empDAO
 {

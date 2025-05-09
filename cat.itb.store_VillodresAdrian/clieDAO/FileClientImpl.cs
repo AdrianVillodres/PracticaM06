@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using cat.itb.store_VillodresAdrian.clieDAO;
-using cat.itb.store_VillodresAdrian.empDAO;
 using Newtonsoft.Json;
 
-namespace cat.itb.gestioHR.cliDAO
+namespace cat.itb.store_VillodresAdrian.clieDAO
 {
     public class FileClientImpl : ClientDAO
     {

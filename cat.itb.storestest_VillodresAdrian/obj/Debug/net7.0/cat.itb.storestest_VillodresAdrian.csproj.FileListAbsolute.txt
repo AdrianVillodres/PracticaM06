@@ -1,0 +1,15 @@
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\bin\Debug\net7.0\cat.itb.storestest_VillodresAdrian.exe
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\bin\Debug\net7.0\cat.itb.storestest_VillodresAdrian.deps.json
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\bin\Debug\net7.0\cat.itb.storestest_VillodresAdrian.runtimeconfig.json
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\bin\Debug\net7.0\cat.itb.storestest_VillodresAdrian.dll
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\bin\Debug\net7.0\cat.itb.storestest_VillodresAdrian.pdb
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\obj\Debug\net7.0\cat.itb.storestest_VillodresAdrian.csproj.AssemblyReference.cache
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\obj\Debug\net7.0\cat.itb.storestest_VillodresAdrian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\obj\Debug\net7.0\cat.itb.storestest_VillodresAdrian.AssemblyInfoInputs.cache
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\obj\Debug\net7.0\cat.itb.storestest_VillodresAdrian.AssemblyInfo.cs
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\obj\Debug\net7.0\cat.itb.storestest_VillodresAdrian.csproj.CoreCompileInputs.cache
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\obj\Debug\net7.0\cat.itb.storestest_VillodresAdrian.dll
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\obj\Debug\net7.0\refint\cat.itb.storestest_VillodresAdrian.dll
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\obj\Debug\net7.0\cat.itb.storestest_VillodresAdrian.pdb
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\obj\Debug\net7.0\cat.itb.storestest_VillodresAdrian.genruntimeconfig.cache
+C:\Users\argo\Desktop\Adrian\Practica\cat.itb.storestest_VillodresAdrian\obj\Debug\net7.0\ref\cat.itb.storestest_VillodresAdrian.dll

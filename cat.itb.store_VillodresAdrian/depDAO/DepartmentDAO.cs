@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace cat.itb.gestioHR.depDAO
+namespace cat.itb.store_VillodresAdrian.depDAO
 {
     public interface DepartmentDAO
     {

@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using cat.itb.gestioHR.connections;
-using cat.itb.store.connections;
-using cat.itb.store_VillodresAdrian.clieDAO;
+using cat.itb.store_VillodresAdrian.connections;
 using Npgsql;
 
-namespace cat.itb.gestioHR.depDAO
+namespace cat.itb.store_VillodresAdrian.clieDAO
 {
     public class SQLClientImpl : ClientDAO
     {

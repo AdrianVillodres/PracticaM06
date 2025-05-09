@@ -1,4 +1,4 @@
-﻿namespace cat.itb.gestioHR.depDAO
+﻿namespace cat.itb.store_VillodresAdrian.depDAO
 {
     public class Department
     {
